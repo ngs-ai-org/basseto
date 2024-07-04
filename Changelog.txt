@@ -1,0 +1,4 @@
+# CHANGELOG
+version = "0.3.8"
+- default compression level 6 (better tradeoff for speed vs size)
+- take all features from niffler for compatibility reasons
